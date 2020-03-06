@@ -1,6 +1,6 @@
 # Retrofit_GET_Android_Marvel_Heroes
 
-BASE_URLE = "https://simplifiedcoding.net/demos/marvel/"
+BASE_URL = "https://simplifiedcoding.net/demos/marvel/"
 
 Retrofit
 
